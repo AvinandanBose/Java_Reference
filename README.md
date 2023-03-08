@@ -2,8 +2,10 @@
 
 <h1>JAVA- LAMBDA EXPRESSION, Functional Interface, Method Reference AND ConstructorReference</h1>
 <ul>
-<h3> <li><a href="https://github.com/AvinandanBose/Java-LambdaExpression_FunctionalInterface_MethodReferences_AND_ConstructorReference">   LAMBDA EXPRESSION, Functional Interface, Method Reference AND ConstructorReference </li></h3>
+<h3> <li><a href="https://github.com/AvinandanBose/Java-LambdaExpression_FunctionalInterface_MethodReferences_AND_ConstructorReference">   LAMBDA EXPRESSION, Functional Interface, Method Reference AND ConstructorReference </li></h3> 
 </ul>
+
+- [x] Finished
 
 <h1>Java VarArgs</h1>
 
@@ -11,10 +13,14 @@
 <h3> <li><a href="https://github.com/AvinandanBose/Java_VarArgs">  About Java VarArgs </li></h3>
 </ul>
 
+- [x] Finished
+
 <h1>Java Generics</h1>
 <ul>
 <h3> <li><a href="https://github.com/AvinandanBose/JavaGeneric">  About Java Generics - In Details</li></h3>
 </ul>
+
+
 
 <h1>Java Collection Framework</h1>
 <ul>
@@ -43,6 +49,8 @@
 <h3><li> <a href="https://github.com/AvinandanBose/HackerRank_JavaBasic_QNA"> Hacker Rank Java Basic Questions And Answers & Certificate</li></h3>
 
 </ul>
+
+- [x] Finished
 
 <h1> Hacker Rank Coding Challenge & Problem Solving </h1>
 <ul>
