@@ -18,6 +18,8 @@
 <h1>Java Generics</h1>
 <ul>
 <h3> <li><a href="https://github.com/AvinandanBose/JavaGeneric">  About Java Generics - In Details</li></h3>
+
+- [x] Finished
 </ul>
 
 
