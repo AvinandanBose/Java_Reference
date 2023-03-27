@@ -29,8 +29,14 @@
 <h3> <a href="https://github.com/AvinandanBose/Java-Collection-Framework-and-Java-Set"> 1. About Java Collection  and Java Set Interface </h3>
 <h3> <a href="https://github.com/AvinandanBose/JavaCollection_List_Vector"> 2.  Java List Interface and Vector Class  </h3>
 <h3> <a href="https://github.com/AvinandanBose/Java-Collections-Map"> 3.  Java Map Interface  </h3>
+
+- [x] Finished
+
 <ul>
 <h3> <a href="https://github.com/AvinandanBose/Java-Collections-HashTable"> 3.a.  Java - HashTable Class  </h3>
+
+- [x] Finished
+
 </ul>
 
 
